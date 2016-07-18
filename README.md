@@ -1,7 +1,8 @@
 # Practical Machine Learning - Final Assignment
-Gustavo Adolfo Cruz Laura
-La Paz - Bolivia
-July -2016
+
+### Gustavo Adolfo Cruz Laura
+### La Paz - Bolivia
+### July -2016
 
 This repository is the presentation of the final project of the Coursera Practical Machine Learning Course.
 
